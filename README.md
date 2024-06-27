@@ -31,7 +31,3 @@
 <a href="https://drive.usercontent.google.com/u/0/uc?id=1nnsfBqB9FGDy3BDEStE9JbVvRoOFQINv&git">
     <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=plastic" style="width: 100px; height: auto;" alt="Download"/>
 </a>
-
-
-
-<img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=plastic" style="width: 200px; height: auto;">
